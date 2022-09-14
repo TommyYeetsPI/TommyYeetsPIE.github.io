@@ -11,7 +11,14 @@ body{
   text-decoration: none;
   color: white;
 }
-
+body p{
+color:#808080;
+text-decoration:none; 
+}
+body p a{
+ color:#808080;
+text-decoration:none;
+}
 header{
   position: absolute;
   Top:0;
